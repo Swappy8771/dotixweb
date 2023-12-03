@@ -242,7 +242,13 @@ h2 {
 .brand-logo:nth-child(even) {
   animation: fadeInRight 0.75s ease;
 }
+button.arrow.prev {
+  display: none;
+}
 
+button.arrow.next {
+  display: none;
+}
 /* contact page css */
 
 #contact-info {
